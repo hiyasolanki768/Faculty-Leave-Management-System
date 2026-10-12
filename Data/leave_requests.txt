@@ -1,0 +1,2 @@
+101|1|medical leave|20-10-2026|22-10-2026|medical appointment
+102|2|Casual leave|25-10-2026|27-10-2026|Personal work
